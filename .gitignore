@@ -1,0 +1,5 @@
+# Dataset (download from Kaggle, see README)
+IMDB Dataset.csv
+
+.ipynb_checkpoints/
+__pycache__/
